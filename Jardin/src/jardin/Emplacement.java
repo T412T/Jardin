@@ -14,4 +14,5 @@ public class Emplacement {
 		this.vegetal = veg;
 	}
 
+	
 }

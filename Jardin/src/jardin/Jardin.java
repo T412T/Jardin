@@ -49,6 +49,7 @@ public class Jardin {
 			return text
 		}
 	}
+	
 		public void ajouterPanier(string s,int i) {
 			this.panier.compute(s , i)
 		}
